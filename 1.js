@@ -1,1 +1,2 @@
-console.log('杰哥');
+
+var a = 10;

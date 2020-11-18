@@ -1,5 +1,6 @@
 # 以下都是git不用push的内容 
 /dist
+
 .idea
 
 /node_modules
@@ -8,4 +9,4 @@
 
 .DS_Store
 
-.vscode/*
+.vscode/* 
