@@ -1,0 +1,19 @@
+git add --all存到暂存区。
+git status查看文件情况
+git commit -m''提交  
+git log查看日志
+git remote add origin网址  
+git push origin master提交 
+
+github拉取到vscode上
+git remote -v
+git clone git@github.com：2500922301 / gitstuay.git
+
+
+发布错误时修改方法
+！[拒绝]管理员->管理员（先获取）
+	错误：无法将一些引用推送到'https://github.com/Guohao8/ZZHXX.git'
+解决方法
+先输入git pull --rebase原始主机
+再git push -u原始主机
+再git push origin master
